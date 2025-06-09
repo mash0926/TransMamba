@@ -49,8 +49,8 @@ Extensive experiments demonstrate that TransMamba achieves **state-of-the-art pe
 - Install **Python 3.10.14**, **PyTorch 2.1.1**, and **CUDA 11.8**.
 
 ### 2. Download Data
-- Download all datasets from [Google Drive](https://drive.google.com/drive/folders/1gisthCoE-RrKJ0j3KPV7xiibhHWT9qRm?usp=sharing).  
-  **All datasets are pre-processed and ready to use.**  
+- Download all datasets from [Google Drive](https://drive.google.com/drive/folders/1vD9AUGznwr3kfTsl8NkgxJQ9KMlfJowz?usp=drive_link).  
+  **All datasets are pre-processed and ready to use.**
 - For the **SWaT** dataset, please follow its [official tutorial](https://itrust.sutd.edu.sg/itrust-labs_datasets/dataset_info/) to obtain access.
 
 ### 3. Training & Evaluation
