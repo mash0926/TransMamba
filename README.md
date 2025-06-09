@@ -1,7 +1,7 @@
-# TransMamba: Time-Frequency Discriminative Feature Learning for Multivariate Time Series Anomaly Detection
+# (ICDE'26) TransMamba: Time-Frequency Discriminative Feature Learning for Multivariate Time Series Anomaly Detection
 
 This repository contains the **official PyTorch implementation** of our paper:  
-**TransMamba: Time-Frequency Discriminative Feature Learning for Multivariate Time Series Anomaly Detection**.
+**"TransMamba: Time-Frequency Discriminative Feature Learning for Multivariate Time Series Anomaly Detection" (ICDE 2026)**.
 
 ## Introduction
 
