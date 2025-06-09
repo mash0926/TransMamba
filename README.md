@@ -14,7 +14,7 @@ Time series anomaly detection methods based on the reconstruction frameworks hav
 
 
 ## Main Result
-Extensive experiments on 5 real-world datasets and 5 synthetic datasets demonstrate that TransMamba achieves state-of-the-art performance.
+Extensive experiments demonstrate that TransMamba achieves state-of-the-art performance.
 
 |          ![Figure2](pics/mainresults.png)          |
 |:--------------------------------------------------:| 
