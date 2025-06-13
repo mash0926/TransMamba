@@ -10,7 +10,7 @@ Reconstruction-based time series anomaly detection methods often suffer from lim
 (ii) difficulty in extracting pattern-wise features.
 
 In this paper, we propose **TransMamba**, an unsupervised **time-frequency hybrid architecture** that combines:  
-- a **time-domain Transformer-based Local Variations Perception Module (LVPM)**, and  
+- a **time-domain Transformer-based Local Variations Perception Module (LVPM)**,
 - a **frequency-domain Mamba-based Global Patterns Representation Module (GPRM)**,  
 
 to jointly learn discriminative features. By leveraging the complementary strengths of Transformer and Mamba, TransMamba achieves an excellent trade-off between performance and efficiency.
