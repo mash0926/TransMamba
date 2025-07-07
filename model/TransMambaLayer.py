@@ -112,7 +112,7 @@ class FrequencyMamba(nn.Module):
 
         real = self.get_r(enc_out)
         imag = self.get_i(enc_out)
-        output_f = real + imag * 1j
+        output_f = torch.complex(real, imag)
 
         recon_loss_f = self.MSE(x_f.real, real) + self.MSE(x_f.imag, imag)
         output = torch.fft.irfft(output_f, n=self.config.win_size, dim=1)
